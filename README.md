@@ -1,0 +1,2 @@
+# my_regression
+A linear regression algorithm that finds out a linear relationship between a dependent variable and the other given independent variables. A decision tree that captures non-linear interactions between the features and the target variable and, a random forest regressor that constructs a different number of decision trees at training time, outputting the class that is the mode of the classes (for classification) or mean prediction (for regression) of the individual trees. 
